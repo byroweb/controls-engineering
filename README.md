@@ -10,3 +10,7 @@ Ogata, Katsuhiko. System Dynamics 4th edition http://gen.lib.rus.ec/book/index.p
 
 other readings:
 Ogata, Katsuhiko. Modern Control Engineering http://gen.lib.rus.ec/book/index.php?md5=761D534F13F94E94C2C1E0880BCEF8DB
+
+Tongue, Benson. Principles of Vibration http://gen.lib.rus.ec/book/index.php?md5=D7C74BCD90806FB80ABE0F37DF5A8AF4
+
+Beer et al. Mechanics of Materials http://gen.lib.rus.ec/book/index.php?md5=7E4A2E884AFFE1DB2248AA0F93BB1147
